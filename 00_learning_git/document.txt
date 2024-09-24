@@ -45,7 +45,7 @@ My name is Diana and I am trying to edit this file
 
 >>>>>>> 22fb1b8bcf51e188ad7ba6b256257df14ae2f243
 
-
+I and trying to push through
 
 My name is Diana and I am trying to edit this file
 Somebody once told me ASCII was gonna roll me, I aint the sharpest tool in the shed
