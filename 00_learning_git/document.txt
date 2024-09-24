@@ -15,7 +15,7 @@ hello - Keir
 im trying to mess with stuff
 
 
-I am keir and I am trying to push
+
 
 ⢀⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀⣀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 ⠸⡇⠀⠿⡀⠀⠀⠀⣀⡴⢿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
@@ -35,12 +35,6 @@ I am keir and I am trying to push
 Shrek is here
 
 
-<<<<<<< HEAD
-GET OUT OF MY .TXT FILE!!!!!!!!!!!!!!!!
-=======
 GET OUT OF MY .TXT FILE!!!!!!!!!!!!!!!!
 
-
-My name is Diana and I am trying to edit this file
-
->>>>>>> 22fb1b8bcf51e188ad7ba6b256257df14ae2f243
+My name is Katie and I am trying to edit this file
